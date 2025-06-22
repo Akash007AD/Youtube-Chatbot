@@ -31,7 +31,7 @@ An interactive chatbot that allows users to ask questions about the content of a
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/youtube-transcript-chatbot.git
+git clone https://github.com/Akash007AD/Youtube-Chatbot.git
 cd youtube-transcript-chatbot
 ```
 
